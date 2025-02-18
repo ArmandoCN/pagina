@@ -1,0 +1,29 @@
+/* Archivo styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e0f7fa;
+    margin: 20px;
+}
+
+h1 {
+    color: navy;
+    text-align: center;
+}
+
+h2 {
+    color: darkblue;
+}
+
+p {
+    color: darkslategray;
+    font-size: 18px;
+}
+
+footer {
+    margin-top: 20px;
+    text-align: center;
+    padding: 10px;
+    background-color: #00796b;
+    color: white;
+}
